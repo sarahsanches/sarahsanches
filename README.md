@@ -1,6 +1,7 @@
 Hello, I'm Sarah 😊
 
 I am a biologist and work in the area of Environmental Consulting 🐾
+
 I created this profile, as a way to explore this technological world and maybe help in some way in my area of expertise ✨
 
 <div>
